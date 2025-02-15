@@ -28,6 +28,8 @@ Make sure the backend is running locally first by following the [backend README 
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the development server.
 
+Note, the frontend can be access here locally: `http://localhost:5173/`
+
 ---
 
 ## Final Remarks
